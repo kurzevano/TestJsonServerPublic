@@ -12,15 +12,15 @@
     "name": "typicode"
   },
   "users":[
-     { "id": 1, "firsrName": "Антон", "lastName": "Сусанин" },
-    { "id": 2, "firsrName": "Марк", "lastName": "Кукуев" },
-    { "id": 3, "firsrName": "Злата", "lastName": "Милавская" },
-    { "id": 4, "firsrName": "Милена", "lastName": "Отважная" },
-    { "id": 5, "firsrName": "Жади", "lastName": "Петрова" },
-    { "id": 6, "firsrName": "Сабина", "lastName": "Деревенская" },
-    { "id": 7, "firsrName": "Велена", "lastName": "Прекрасная" },
-    { "id": 8, "firsrName": "Николас", "lastName": "Царевич" },
-    { "id": 9, "firsrName": "Джон", "lastName": "Петровский" },
-    { "id": 10, "firsrName": "Иван", "lastName": "Бузовский" }
+     { "id": 1, "firstName": "Антон", "lastName": "Сусанин" },
+    { "id": 2, "firstName": "Марк", "lastName": "Кукуев" },
+    { "id": 3, "firstName": "Злата", "lastName": "Милавская" },
+    { "id": 4, "firstName": "Милена", "lastName": "Отважная" },
+    { "id": 5, "firstName": "Жади", "lastName": "Петрова" },
+    { "id": 6, "firstName": "Сабина", "lastName": "Деревенская" },
+    { "id": 7, "firstName": "Велена", "lastName": "Прекрасная" },
+    { "id": 8, "firstName": "Николас", "lastName": "Царевич" },
+    { "id": 9, "firstName": "Джон", "lastName": "Петровский" },
+    { "id": 10, "firstName": "Иван", "lastName": "Бузовский" }
     ]
 }
