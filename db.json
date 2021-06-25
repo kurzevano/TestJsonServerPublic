@@ -1,4 +1,4 @@
- "users":[
+{"users":[
  {
   "id": 481,
   "firstName": "Braulio",
@@ -26,5 +26,6 @@
    "zip": "27649"
   },
   "description": "sollicitudin porttitor sagittis mattis ac dui lacus placerat lectus placerat suspendisse ante etiam elementum massa sed sollicitudin tellus et ac hendrerit mattis dolor consequat tincidunt hendrerit porttitor adipiscing lacus dui nec ipsum"
- },
+ }
 ]
+}
