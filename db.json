@@ -9,6 +9,20 @@
     { "id": 7, "firstName": "Велена", "lastName": "Прекрасная" },
     { "id": 8, "firstName": "Николас", "lastName": "Царевич" },
     { "id": 9, "firstName": "Джон", "lastName": "Петровский" },
-    { "id": 10, "firstName": "Иван", "lastName": "Бузовский" }
+    { "id": 10, "firstName": "Иван", "lastName": "Бузовский" },
+    {
+  "id": 481,
+  "firstName": "Braulio",
+  "lastName": "Alpert",
+  "email": "HLyn@magna.gov",
+  "phone": "(155)790-9728",
+  "address": {
+   "streetAddress": "8092 Orci Rd",
+   "city": "Mount Vernon",
+   "state": "MT",
+   "zip": "62781"
+  },
+  "description": "donec adipiscing amet massa vitae pretium aenean pharetra adipiscing aenean magna magna rutrum tortor fringilla orci elit pulvinar nec pretium suspendisse donec elementum tortor in consequat mattis tincidunt egestas sed neque tempor"
+ }
     ]
 }
