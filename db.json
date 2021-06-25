@@ -1,31 +1,26 @@
-{"users":[
- {
-  "id": 481,
-  "firstName": "Braulio",
-  "lastName": "Alpert",
-  "email": "HLyn@magna.gov",
-  "phone": "(155)790-9728",
-  "address": {
-   "streetAddress": "8092 Orci Rd",
-   "city": "Mount Vernon",
-   "state": "MT",
-   "zip": "62781"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   },
-  "description": "donec adipiscing amet massa vitae pretium aenean pharetra adipiscing aenean magna magna rutrum tortor fringilla orci elit pulvinar nec pretium suspendisse donec elementum tortor in consequat mattis tincidunt egestas sed neque tempor"
- },
- {
-  "id": 980,
-  "firstName": "Janice",
-  "lastName": "Bowling",
-  "email": "DNoe@sollicitudin.gov",
-  "phone": "(458)090-4098",
-  "address": {
-   "streetAddress": "427 Aenean Ct",
-   "city": "Roxboro",
-   "state": "VA",
-   "zip": "27649"
-  },
-  "description": "sollicitudin porttitor sagittis mattis ac dui lacus placerat lectus placerat suspendisse ante etiam elementum massa sed sollicitudin tellus et ac hendrerit mattis dolor consequat tincidunt hendrerit porttitor adipiscing lacus dui nec ipsum"
- }
-]
+  "users":[
+     { "id": 1, "firstName": "Антон", "lastName": "Сусанин" },
+    { "id": 2, "firstName": "Марк", "lastName": "Кукуев" },
+    { "id": 3, "firstName": "Злата", "lastName": "Милавская" },
+    { "id": 4, "firstName": "Милена", "lastName": "Отважная" },
+    { "id": 5, "firstName": "Жади", "lastName": "Петрова" },
+    { "id": 6, "firstName": "Сабина", "lastName": "Деревенская" },
+    { "id": 7, "firstName": "Велена", "lastName": "Прекрасная" },
+    { "id": 8, "firstName": "Николас", "lastName": "Царевич" },
+    { "id": 9, "firstName": "Джон", "lastName": "Петровский" },
+    { "id": 10, "firstName": "Иван", "lastName": "Бузовский" }
+    ]
 }
